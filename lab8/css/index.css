@@ -1,0 +1,50 @@
+body {
+    font-family: Modak;
+    background-color: gray;
+    padding: 25px;
+    font-size: 120%;
+
+}
+
+p#red-one{
+  color: red;
+
+}
+
+p#blue-one{
+  color: blue;
+
+}
+
+div#content {
+    padding: 50px;
+    background-color: black;
+    border: ridge 10px #29E2EB;
+    height: 80vh;
+    color: #ECF2F2;
+    margin: 25px 50px 75px 100px;
+}
+
+h1, h2, h3 {
+    font-family: "oswald", monospace;
+}
+
+img {
+    float: right;
+    width: 400px;
+    height: auto;
+}
+
+#hover:hover{
+  height:200px;
+  width:100px;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
