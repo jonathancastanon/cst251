@@ -1,0 +1,64 @@
+
+
+
+div#content {
+    padding: 50px;
+    background-color: white;
+    border: ridge 10px brown;
+    height: 80vh;
+    color: white;
+    margin: 25px 50px 75px 100px;
+}
+
+
+div#image {
+      padding-top: 40px;
+      float: right;
+      width: 400px;
+      height: auto;
+
+}
+
+
+h1#blueone  {
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue;
+  padding-left: 15px;
+  background-color: blue;
+  width: 25%;
+}
+
+
+h2#bluetwo {
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue;
+  padding-left: 15px;
+  background-color: blue;
+  width: 25%;
+}
+
+h3#bluethree {
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue;
+  padding-left: 15px;
+  background-color: blue;
+  width: 25%;
+}
+
+p#goldone {
+  color: #FADE00;
+}
+
+
+p#goldtwo {
+  color: #FADE00;
+}
+
+
+p#goldthree{
+  color: #FADE00;
+}
