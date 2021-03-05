@@ -1,0 +1,52 @@
+div#content {
+    padding: 50px;
+    background-color: orange;
+    border: solid 30px black;
+    height: 80vh;
+    color: black;
+    margin: 25px 50px 75px 100px;
+    height: auto;
+    font-family: 'Fascinate', cursive;
+}
+
+#madbum {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/madbum.png);
+  width: 25%;
+}
+
+#baseball {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/baseball.png);
+}
+
+#madbum2 {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/madbum.png);
+  width: 25%;
+}
+
+#madbum3 {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/madbum.png);
+  width: 25%;
+
+}
+
+#baseball2 {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/baseball.png);
+}
+
+
+#baseball3 {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image-source: url(../img/baseball.png);
+
+}
