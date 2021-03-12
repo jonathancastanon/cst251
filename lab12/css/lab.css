@@ -1,0 +1,47 @@
+body{
+  background-color: orange;
+  border: dashed 10px blue;
+}
+
+
+div#content{
+  width: 30%;
+}
+
+div#floated{
+  float: right;
+  width: 30%;
+  border: 5px dashed blue;
+  text-align: center;
+}
+
+div#center-horz{
+  width: 30%;
+  text-align: center;
+  border: 5px dashed blue;
+}
+
+div#center-img{
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#center-both{
+  width: 30%;
+  height: 200px;
+  position: relative;
+
+}
+
+div#center-both p{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(50%, -50%);
+  transform: translate(50%, -50%);
+  border: 5px dashed blue;
+
+}
