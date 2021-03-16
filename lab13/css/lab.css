@@ -1,0 +1,26 @@
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
+
+body{
+  background-color: darkblue;
+}
+
+div#content{
+  color: white
+}
+
+nav{
+  position: sticky;
+  top: 0;
+  background-color: #911410;
+  border: dotted 10px white;
+  color: #095491;
+}
+
+nav a{
+  color: white;
+}

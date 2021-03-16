@@ -1,0 +1,55 @@
+p{
+  font-family: 'Oswald', sans-serif;
+  font-size: 150px;
+  text-align: center;
+}
+
+.b{
+  color: red;
+  margin-right: -40px;
+}
+
+.o{
+  color: blue;
+  margin-right: -40px;
+}
+
+.n{
+  color: purple;
+  margin-right: -40px;
+}
+
+.j{
+  color: purple;
+  margin-right: -40px;
+}
+
+.o2{
+  color: purple;
+  margin-right: -40px;
+}
+
+.u{
+  color: orange;
+  margin-right: -40px;
+}
+
+.r{
+  color: green;
+  margin-right: -40px;
+}
+
+
+p#content{
+  font-size: 50px;
+  margin-top: -50px;
+}
+
+p#content2{
+  font-size: 50px;
+  margin-top: -50px;
+}
+
+body{
+  background-color: white;
+}
