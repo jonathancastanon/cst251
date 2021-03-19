@@ -1,0 +1,29 @@
+body{
+  background-color: #36454f;
+}
+
+p#school{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Prompt', sans-serif;
+  color: white;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 150px;
+}
+
+p#date{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Prompt', sans-serif;
+  font-size: 75px;{
+  color: white;
+  padding-left: 60px;
+  margin-top: -275px;
+}
+
+.csumb{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: -50px;
+}
