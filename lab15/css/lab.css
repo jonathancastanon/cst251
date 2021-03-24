@@ -1,0 +1,56 @@
+
+nav a{
+  color: white;
+}
+
+div#content{
+  text-shadow: 5px 5px black;
+  font-size: 30px;
+  color: white;
+}
+
+div#head_para2{
+  background-image:
+    linear-gradient(#acc756, #323d10);
+  text-align: center;
+  border: dotted 10px black;
+  margin-left: 500px;
+  margin-right: 10px;
+  margin-top: -580px;
+  box-shadow: 3px 3px 15px yellow;
+
+}
+
+div#concept{
+  background-image:
+    linear-gradient(#acc756, #323d10);
+  text-align: center;
+  border: dotted 10px black;
+  margin-right: 1500px;
+  margin-top: 200px;
+  margin-left: 10px;
+  box-shadow: 3px 3px 15px yellow;
+}
+
+
+div#results{
+  background-image:
+    linear-gradient(#acc756, #323d10);
+  text-align: center;
+  border: dotted 10px black;
+  margin-left: 500px;
+  margin-right: 10px;
+  margin-top: 50px;
+  box-shadow: 3px 3px 15px yellow;
+}
+
+nav a{
+  margin-left: 150px;
+  font-size: 40px;
+  margin-top: -1000px;
+  background-image:
+    linear-gradient(#acc756, #323d10);
+  border: dotted 2px black;
+  border-radius: 25px;
+  text-decoration: none;
+}
