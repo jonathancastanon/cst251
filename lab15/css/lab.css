@@ -9,18 +9,6 @@ div#content{
   color: white;
 }
 
-div#head_para2{
-  background-image:
-    linear-gradient(#acc756, #323d10);
-  text-align: center;
-  border: dotted 10px black;
-  margin-left: 500px;
-  margin-right: 10px;
-  margin-top: -580px;
-  box-shadow: 3px 3px 15px yellow;
-
-}
-
 div#concept{
   background-image:
     linear-gradient(#acc756, #323d10);
@@ -30,8 +18,20 @@ div#concept{
   margin-top: 200px;
   margin-left: 10px;
   box-shadow: 3px 3px 15px yellow;
+  position: fixed;
 }
 
+div#head_para2{
+  background-image:
+    linear-gradient(#acc756, #323d10);
+  text-align: center;
+  border: dotted 10px black;
+  margin-left: 500px;
+  margin-right: 10px;
+  margin-top: 200px;
+  box-shadow: 3px 3px 15px yellow;
+
+}
 
 div#results{
   background-image:
@@ -40,8 +40,9 @@ div#results{
   border: dotted 10px black;
   margin-left: 500px;
   margin-right: 10px;
-  margin-top: 50px;
+  margin-top: 250px;
   box-shadow: 3px 3px 15px yellow;
+
 }
 
 nav a{
