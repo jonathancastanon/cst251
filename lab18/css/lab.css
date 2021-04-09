@@ -1,0 +1,42 @@
+header{
+  text-align: center;
+  border: dotted red 5px;
+  margin-left: 33%;
+  margin-right: 33%;
+  font-size: 40px;
+  color: yellow;
+}
+
+body{
+  color: yellow;
+}
+
+h1, h2, h3{
+  border: dotted red 5px;
+  text-align: center;
+  margin-left: 33%;
+  margin-right: 33%;
+}
+
+p{
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+aside{
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+  flex-direction: column;
+}
+
+footer{
+  text-align: center;
+  font-size: 40px;
+  border: dotted red 5px;
+  margin-left: 33%;
+  margin-right: 33%;
+}
